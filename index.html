@@ -1,0 +1,69 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="theme-color" content="#000000">
+    <meta name="rnbo-version" content="1.0.0-alpha.5">
+    <link rel="stylesheet" href="./style/style.css" />
+<link rel="icon" type="image/png" sizes="32x32" href="./export/img/favicon-32x32.png" />
+    <title>A Realisation of Williams Mix</title>
+</head>
+<body>
+  <div id="rnbo-root">
+    <div class="window">
+        <h1 id="patcher-title"></h1>
+        <p id="warning">🔉 make sure that audio is on 🔉</p>
+      <ul>
+        <li><img id="imgL1" class="imgs" src="./export/img/africa_01.png" alt="L1">
+          <div class="top-left">L1</div>
+        </li>
+        <li><img id="imgL2" class="imgs" src="./export/img/saxophone_01.png" alt="L2">
+          <div class="bottom-left">L2</div>
+        </li>
+        <li><img id="imgR1" class="imgs" src="./export/img/dvno_01.png" alt="R1">
+          <div class="top-right">R1</div>
+        </li>
+        <li><img id="imgR2" class="imgs" src="./export/img/konan_01.png" alt="R2">
+          <div class="bottom-right">R2</div>
+        </li>
+      </ul>
+
+        <div id="rnbo-inports">
+            <form id="inport-form" className="inport">
+            </form>
+        </div>
+
+        <div id="rnbo-parameter-sliders">
+          <p id="warning" style="margin-top: 0px;">🎚️ Parameters 🎚️</p>
+
+            <!-- <em id="no-param-label"></em> -->
+        </div>
+        
+
+        <!-- <div id="rnbo-console"> -->
+          <section class="description">
+            <h2>100 samples in one go: </h2>
+
+            <p>
+              Massively influenced by <a href="https://johncage.org/pp/John-Cage-Work-Detail.cfm?work_ID=246" >Williams Mix</a> of the audio pioneer, J. Cage and the computer <a href="https://tomerbe.bandcamp.com/album/williams-mix">realisation piece, "CLPPNG"</a> by Tom Erbe.
+              Unlike the original work, I did not follow the rhythmic structure or used 600 samples but added the element of interactivity.
+              Also not 8 loudspeakers surrounding the audience but audio comes from 5 total channels. This work was also deployed as a standalone device onto RPI! 
+            </p>
+            </section>
+          </div>
+		</div>
+
+
+
+    <!-- Load the script that creates the RNBO device  -->
+    <!-- Uncomment if you know the version of your exported RNBO patch to avoid dynamic loading -->
+    <script type="text/javascript" src="https://cdn.cycling74.com/rnbo/latest/rnbo.min.js"></script>
+
+    <!-- Import RNBO Engine Wrapper -->
+    <!-- Make sure to include the RNBO engine version to the version of your exported code, found in rnbopackage.json -->
+    <script type="text/javascript" src="js/app.js"></script>
+    <script type="text/javascript" src="js/guardrails.js"></script>
+</body>
+</html>

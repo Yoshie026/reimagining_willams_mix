@@ -1,0 +1,394 @@
+[
+  {
+    "id": "nokia08",
+    "file": "nokia08.wav"
+  },
+  {
+    "id": "nokia07",
+    "file": "nokia07.wav"
+  },
+  {
+    "id": "nokia06",
+    "file": "nokia06.wav"
+  },
+  {
+    "id": "nokia05",
+    "file": "nokia05.wav"
+  },
+  {
+    "id": "nokia04",
+    "file": "nokia04.wav"
+  },
+  {
+    "id": "nokia03",
+    "file": "nokia03.wav"
+  },
+  {
+    "id": "nokia02",
+    "file": "nokia02.wav"
+  },
+  {
+    "id": "nokia01",
+    "file": "nokia01.wav"
+  },
+  {
+    "id": "nintendo11",
+    "file": "nintendo11.wav"
+  },
+  {
+    "id": "nintendo10",
+    "file": "nintendo10.wav"
+  },
+  {
+    "id": "nintendo09",
+    "file": "nintendo09.wav"
+  },
+  {
+    "id": "nintendo08",
+    "file": "nintendo08.wav"
+  },
+  {
+    "id": "nintendo07",
+    "file": "nintendo07.wav"
+  },
+  {
+    "id": "nintendo06",
+    "file": "nintendo06.wav"
+  },
+  {
+    "id": "nintendo05",
+    "file": "nintendo05.wav"
+  },
+  {
+    "id": "nintendo04",
+    "file": "nintendo04.wav"
+  },
+  {
+    "id": "nintendo03",
+    "file": "nintendo03.wav"
+  },
+  {
+    "id": "nintendo02",
+    "file": "nintendo02.wav"
+  },
+  {
+    "id": "nintendo01",
+    "file": "nintendo01.wav"
+  },
+  {
+    "id": "alerming07",
+    "file": "alarm07.wav"
+  },
+  {
+    "id": "alerming06",
+    "file": "alarm06.wav"
+  },
+  {
+    "id": "alerming05",
+    "file": "alarm05.wav"
+  },
+  {
+    "id": "alerming04",
+    "file": "alarm04.wav"
+  },
+  {
+    "id": "alerming03",
+    "file": "alarm03.wav"
+  },
+  {
+    "id": "alerming02",
+    "file": "alarm02.wav"
+  },
+  {
+    "id": "alerming01",
+    "file": "alarm01.wav"
+  },
+  {
+    "id": "whazupwitu02",
+    "file": "whazupwitu02.wav"
+  },
+  {
+    "id": "whazupwitu03",
+    "file": "whazupwitu03.wav"
+  },
+  {
+    "id": "whazupwitu01",
+    "file": "whazupwitu01.wav"
+  },
+  {
+    "id": "dvno02",
+    "file": "dvno02.wav"
+  },
+  {
+    "id": "dvno01",
+    "file": "dvno01.wav"
+  },
+  {
+    "id": "africa04",
+    "file": "africa04.wav"
+  },
+  {
+    "id": "africa03",
+    "file": "africa03.wav"
+  },
+  {
+    "id": "africa02",
+    "file": "africa02.wav"
+  },
+  {
+    "id": "africa01",
+    "file": "africa01.wav"
+  },
+  {
+    "id": "bird06",
+    "file": "bird06.wav"
+  },
+  {
+    "id": "bird05",
+    "file": "bird05.wav"
+  },
+  {
+    "id": "bird04",
+    "file": "bird04.wav"
+  },
+  {
+    "id": "bird03",
+    "file": "bird03.wav"
+  },
+  {
+    "id": "bird02",
+    "file": "bird02.wav"
+  },
+  {
+    "id": "bird01",
+    "file": "bird01.wav"
+  },
+  {
+    "id": "rickroll04",
+    "file": "rickroll04.wav"
+  },
+  {
+    "id": "rickroll03",
+    "file": "rickroll03.wav"
+  },
+  {
+    "id": "rickroll02",
+    "file": "rickroll02.wav"
+  },
+  {
+    "id": "rickroll01",
+    "file": "rickroll01.wav"
+  },
+  {
+    "id": "shutup02",
+    "file": "shutup02.wav"
+  },
+  {
+    "id": "shutup01",
+    "file": "shutup01.wav"
+  },
+  {
+    "id": "landing12",
+    "file": "lunar_landing12.wav"
+  },
+  {
+    "id": "landing11",
+    "file": "lunar_landing11.wav"
+  },
+  {
+    "id": "landing10",
+    "file": "lunar_landing10.wav"
+  },
+  {
+    "id": "landing09",
+    "file": "lunar_landing09.wav"
+  },
+  {
+    "id": "landing08",
+    "file": "lunar_landing08.wav"
+  },
+  {
+    "id": "landing07",
+    "file": "lunar_landing07.wav"
+  },
+  {
+    "id": "landing06",
+    "file": "lunar_landing06.wav"
+  },
+  {
+    "id": "landing05",
+    "file": "lunar_landing05.wav"
+  },
+  {
+    "id": "landing04",
+    "file": "lunar_landing04.wav"
+  },
+  {
+    "id": "landing03",
+    "file": "lunar_landing03.wav"
+  },
+  {
+    "id": "landing02",
+    "file": "lunar_landing02.wav"
+  },
+  {
+    "id": "landing01",
+    "file": "lunar_landing01.wav"
+  },
+  {
+    "id": "blade_runner08",
+    "file": "blade_runner08.wav"
+  },
+  {
+    "id": "blade_runner07",
+    "file": "blade_runner07.wav"
+  },
+  {
+    "id": "blade_runner06",
+    "file": "blade_runner06.wav"
+  },
+  {
+    "id": "blade_runner05",
+    "file": "blade_runner05.wav"
+  },
+  {
+    "id": "blade_runner04",
+    "file": "blade_runner04.wav"
+  },
+  {
+    "id": "blade_runner03",
+    "file": "blade_runner03.wav"
+  },
+  {
+    "id": "blade_runner02",
+    "file": "blade_runner02.wav"
+  },
+  {
+    "id": "blade_runner01",
+    "file": "blade_runner01.wav"
+  },
+  {
+    "id": "saxophone13",
+    "file": "saxophone13.wav"
+  },
+  {
+    "id": "saxophone12",
+    "file": "saxophone12.wav"
+  },
+  {
+    "id": "saxophone11",
+    "file": "saxophone11.wav"
+  },
+  {
+    "id": "saxophone14",
+    "file": "saxophone14.wav"
+  },
+  {
+    "id": "saxophone10",
+    "file": "saxophone10.wav"
+  },
+  {
+    "id": "saxophone09",
+    "file": "saxophone09.wav"
+  },
+  {
+    "id": "saxophone04",
+    "file": "saxophone04.wav"
+  },
+  {
+    "id": "saxophone03",
+    "file": "saxophone03.wav"
+  },
+  {
+    "id": "saxophone02",
+    "file": "saxophone02.wav"
+  },
+  {
+    "id": "saxophone01",
+    "file": "saxophone01.wav"
+  },
+  {
+    "id": "orchestral06",
+    "file": "orchestral06.wav"
+  },
+  {
+    "id": "orchestral05",
+    "file": "orchestral05.wav"
+  },
+  {
+    "id": "orchestral04",
+    "file": "orchestral04.wav"
+  },
+  {
+    "id": "orchestral03",
+    "file": "orchestral03.wav"
+  },
+  {
+    "id": "orchestral02",
+    "file": "orchestral02.wav"
+  },
+  {
+    "id": "orchestral01",
+    "file": "orchestral01.wav"
+  },
+  {
+    "id": "konan05",
+    "file": "konan05.wav"
+  },
+  {
+    "id": "konan03",
+    "file": "konan03.wav"
+  },
+  {
+    "id": "konan04",
+    "file": "konan04.wav"
+  },
+  {
+    "id": "konan02",
+    "file": "konan02.wav"
+  },
+  {
+    "id": "konan01",
+    "file": "konan01.wav"
+  },
+  {
+    "id": "frog03",
+    "file": "frog03.wav"
+  },
+  {
+    "id": "frog02",
+    "file": "frog02.wav"
+  },
+  {
+    "id": "frog01",
+    "file": "frog01.wav"
+  },
+  {
+    "id": "marth01",
+    "file": "marth01.wav"
+  },
+  {
+    "id": "cloud01",
+    "file": "cloud01.wav"
+  },
+  {
+    "id": "saxophone08",
+    "file": "saxophone08.wav"
+  },
+  {
+    "id": "saxophone07",
+    "file": "saxophone07.wav"
+  },
+  {
+    "id": "saxophone06",
+    "file": "saxophone06.wav"
+  },
+  {
+    "id": "saxophone05",
+    "file": "saxophone05.wav"
+  },
+  {
+    "id": "b_vinlyl_aif",
+    "file": "vinlyl.wav"
+  }
+]
